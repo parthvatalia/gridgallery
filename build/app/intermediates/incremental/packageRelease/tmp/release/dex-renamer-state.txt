@@ -1,0 +1,4 @@
+#Wed Apr 17 02:56:01 IST 2024
+base.0=/Users/mac/Documents/GitHub/gridgallery/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
